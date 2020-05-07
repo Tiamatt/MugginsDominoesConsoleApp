@@ -1,0 +1,1 @@
+Display all possible outputs based on provided dominoes ends

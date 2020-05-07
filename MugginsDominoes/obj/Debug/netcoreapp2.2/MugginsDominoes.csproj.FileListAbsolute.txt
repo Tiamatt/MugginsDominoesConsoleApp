@@ -1,0 +1,11 @@
+C:\Users\samir\kali\MugginsDominoesProjects\MugginsDominoes\bin\Debug\netcoreapp2.2\MugginsDominoes.deps.json
+C:\Users\samir\kali\MugginsDominoesProjects\MugginsDominoes\bin\Debug\netcoreapp2.2\MugginsDominoes.runtimeconfig.json
+C:\Users\samir\kali\MugginsDominoesProjects\MugginsDominoes\bin\Debug\netcoreapp2.2\MugginsDominoes.runtimeconfig.dev.json
+C:\Users\samir\kali\MugginsDominoesProjects\MugginsDominoes\bin\Debug\netcoreapp2.2\MugginsDominoes.dll
+C:\Users\samir\kali\MugginsDominoesProjects\MugginsDominoes\bin\Debug\netcoreapp2.2\MugginsDominoes.pdb
+C:\Users\samir\kali\MugginsDominoesProjects\MugginsDominoes\obj\Debug\netcoreapp2.2\MugginsDominoes.csprojAssemblyReference.cache
+C:\Users\samir\kali\MugginsDominoesProjects\MugginsDominoes\obj\Debug\netcoreapp2.2\MugginsDominoes.csproj.CoreCompileInputs.cache
+C:\Users\samir\kali\MugginsDominoesProjects\MugginsDominoes\obj\Debug\netcoreapp2.2\MugginsDominoes.AssemblyInfoInputs.cache
+C:\Users\samir\kali\MugginsDominoesProjects\MugginsDominoes\obj\Debug\netcoreapp2.2\MugginsDominoes.AssemblyInfo.cs
+C:\Users\samir\kali\MugginsDominoesProjects\MugginsDominoes\obj\Debug\netcoreapp2.2\MugginsDominoes.dll
+C:\Users\samir\kali\MugginsDominoesProjects\MugginsDominoes\obj\Debug\netcoreapp2.2\MugginsDominoes.pdb
